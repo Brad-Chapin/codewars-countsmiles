@@ -1,2 +1,2 @@
 # codewars-countsmiles
-codewars kata: count the smileys
+[codewars kata: count the smileys](https://www.codewars.com/trainer/javascript)
